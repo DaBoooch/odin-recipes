@@ -1,0 +1,22 @@
+.header {
+    background-color: yellow;
+    font-size: 50px;
+    margin: auto;
+   
+    text-align: center;
+}
+
+.recipes{
+    padding: 20px;
+    margin: 30px;
+    border-style: solid;
+    border-color: black;
+    width: 200px;
+    text-align: center;
+    display: inline;
+}
+
+.recipe-list {
+    padding-top: 50px;
+    text-align: center;
+}
